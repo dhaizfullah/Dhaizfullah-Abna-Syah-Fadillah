@@ -11,4 +11,4 @@ Information Systems student at Gunadarma University with a 3.57/4.00 GPA. I spec
 - **Certifications:** Data Science Professional (LSP) and Cloud & AI Applications (Dicoding).
 
 ### Let's Connect:
-[Linked](https://www.linkedin.com/in/dhaizfullah-abna-syah-fadillah-360a16374/) | dhaizfullah@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dhaizfullah-abna-syah-fadillah-360a16374/) | dhaizfullah@gmail.com
